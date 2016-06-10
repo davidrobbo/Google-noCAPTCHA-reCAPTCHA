@@ -19,5 +19,5 @@ i) got to https://www.google.com/recaptcha/intro/index.html and click 'GET reCAP
 ii) Sign in with a google accout.
 iii) Add your label and domains (e.g. myNewWebsite and mynewwebsite.app/.dev...)
 iv) At this point, you will be given a public API key, a private API key (for your eyes only!), a js <script> and finally
-    a <div> element. We're good to go!
+a <div> element. Good to go!
     
